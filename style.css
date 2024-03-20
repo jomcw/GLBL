@@ -5,7 +5,7 @@ body {
     font-weight: lighter;
     background: black;
     overflow: hidden;
-    background-image: url(bg.png);
+    background-image: url(brick.png);
 }
 
 body.switched {
