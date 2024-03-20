@@ -3,9 +3,8 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
-    background: black;
+    background: white;
     overflow: hidden;
-    background-image: url(brick.png);
 }
 
 body.switched {
